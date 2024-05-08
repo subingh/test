@@ -1,0 +1,24 @@
+﻿@model QRCodeGenerator.ViewModels.GenerateQRCodeViewModel
+@{
+    ViewData["Title"] = "QR code Generator";
+
+    string QRCodeImageUrl = Model != null ? Model.QRCodeImageUrl : "";
+}
+
+<div class="row">
+    <div class="col-lg-6 m-auto">
+        <form asp-action="Index" method="post">
+            <textarea class="form-control mb-3" rows="5" placeholder="Enter Url Here"></textarea>
+            <button class="btn btn-primary">Generate</button>
+        </form>
+        @if (QRCodeImageUrl != "")
+        {
+            <div class="w-50">
+                <img src="@QRCodeImageUrl" class="img-fluid w-100 h-100 mb-3" />
+                <a href="@QRCodeImageUrl" class="btn btn-primary w-100" download="QRCode.png"></a>
+            </div>
+        }
+        
+    </div>
+</div>
+

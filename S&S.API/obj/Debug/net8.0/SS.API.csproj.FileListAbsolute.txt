@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\.net\S&S.API\obj\Debug\net8.0\SS.API.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\.net\S&S.API\obj\Debug\net8.0\SS.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\.net\S&S.API\obj\Debug\net8.0\SS.API.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\.net\S&S.API\obj\Debug\net8.0\SS.API.AssemblyInfo.cs
+C:\Users\DELL\Desktop\.net\S&S.API\obj\Debug\net8.0\SS.API.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\.net\S&S.API\obj\Debug\net8.0\SS.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\Desktop\.net\S&S.API\obj\Debug\net8.0\SS.API.MvcApplicationPartsAssemblyInfo.cache

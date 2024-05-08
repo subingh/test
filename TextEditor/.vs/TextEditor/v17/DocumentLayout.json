@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\.net\\TextEditor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49B3EC09-7921-46B5-8BB0-DCFB708340A5}|TextEditor.csproj|c:\\users\\dell\\desktop\\.net\\texteditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B3EC09-7921-46B5-8BB0-DCFB708340A5}|TextEditor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B3EC09-7921-46B5-8BB0-DCFB708340A5}|TextEditor.csproj|c:\\users\\dell\\desktop\\.net\\texteditor\\data\\texteditorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B3EC09-7921-46B5-8BB0-DCFB708340A5}|TextEditor.csproj|solutionrelative:data\\texteditorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B3EC09-7921-46B5-8BB0-DCFB708340A5}|TextEditor.csproj|c:\\users\\dell\\desktop\\.net\\texteditor\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B3EC09-7921-46B5-8BB0-DCFB708340A5}|TextEditor.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B3EC09-7921-46B5-8BB0-DCFB708340A5}|TextEditor.csproj|c:\\users\\dell\\desktop\\.net\\texteditor\\models\\doc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B3EC09-7921-46B5-8BB0-DCFB708340A5}|TextEditor.csproj|solutionrelative:models\\doc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B3EC09-7921-46B5-8BB0-DCFB708340A5}|TextEditor.csproj|c:\\users\\dell\\desktop\\.net\\texteditor\\controllers\\docscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B3EC09-7921-46B5-8BB0-DCFB708340A5}|TextEditor.csproj|solutionrelative:controllers\\docscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net\\TextEditor\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net\\TextEditor\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T07:40:20.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextEditorContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net\\TextEditor\\Data\\TextEditorContext.cs",
+              "RelativeDocumentMoniker": "Data\\TextEditorContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net\\TextEditor\\Data\\TextEditorContext.cs",
+              "RelativeToolTip": "Data\\TextEditorContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T07:39:50.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DocsController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net\\TextEditor\\Controllers\\DocsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DocsController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net\\TextEditor\\Controllers\\DocsController.cs",
+              "RelativeToolTip": "Controllers\\DocsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T06:59:30.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net\\TextEditor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net\\TextEditor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T06:54:54.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Doc.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net\\TextEditor\\Models\\Doc.cs",
+              "RelativeDocumentMoniker": "Models\\Doc.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net\\TextEditor\\Models\\Doc.cs",
+              "RelativeToolTip": "Models\\Doc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T06:49:19.958Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

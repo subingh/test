@@ -1,0 +1,6 @@
+@SSWalks_HostAddress = http://localhost:5094
+
+GET {{SSWalks_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

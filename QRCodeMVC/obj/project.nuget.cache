@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0r0U0Z5aSClNnE0ZLqSEkRf5cCfCRzQm/Il58l2/suTsSx07DFB+75bMwndmcazv9+26odCcGvx9/yDFzMcsZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\.net\\QRCodeMVC\\QRCodeMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\qrcoder\\1.5.1\\qrcoder.1.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\.net\\S\u0026S.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29C02D01-3650-4651-A20F-6911FB74ED64}|Menu\\Menu.csproj|c:\\users\\dell\\desktop\\.net\\s\u0026s.api\\menu\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C02D01-3650-4651-A20F-6911FB74ED64}|Menu\\Menu.csproj|solutionrelative:menu\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C02D01-3650-4651-A20F-6911FB74ED64}|Menu\\Menu.csproj|c:\\users\\dell\\desktop\\.net\\s\u0026s.api\\menu\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29C02D01-3650-4651-A20F-6911FB74ED64}|Menu\\Menu.csproj|solutionrelative:menu\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C02D01-3650-4651-A20F-6911FB74ED64}|Menu\\Menu.csproj|c:\\users\\dell\\desktop\\.net\\s\u0026s.api\\menu\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C02D01-3650-4651-A20F-6911FB74ED64}|Menu\\Menu.csproj|solutionrelative:menu\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C02D01-3650-4651-A20F-6911FB74ED64}|Menu\\Menu.csproj|c:\\users\\dell\\desktop\\.net\\s\u0026s.api\\menu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29C02D01-3650-4651-A20F-6911FB74ED64}|Menu\\Menu.csproj|solutionrelative:menu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net\\S\u0026S.API\\Menu\\Models\\Dish.cs",
+              "RelativeDocumentMoniker": "Menu\\Models\\Dish.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net\\S\u0026S.API\\Menu\\Models\\Dish.cs",
+              "RelativeToolTip": "Menu\\Models\\Dish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T05:18:59.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net\\S\u0026S.API\\Menu\\Views\\Menu\\Index.cshtml",
+              "RelativeDocumentMoniker": "Menu\\Views\\Menu\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net\\S\u0026S.API\\Menu\\Views\\Menu\\Index.cshtml",
+              "RelativeToolTip": "Menu\\Views\\Menu\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T08:12:52.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net\\S\u0026S.API\\Menu\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "Menu\\Controllers\\MenuController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net\\S\u0026S.API\\Menu\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "Menu\\Controllers\\MenuController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T09:55:02.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net\\S\u0026S.API\\Menu\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Menu\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net\\S\u0026S.API\\Menu\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Menu\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T11:04:00.559Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

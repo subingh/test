@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\QRCodeMVC.props" />
+</Project>

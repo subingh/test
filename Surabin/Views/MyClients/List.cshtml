@@ -1,0 +1,36 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model List<Surabin.Models.Entities.MyClient>
+
+
+<h1>All Clients</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>ClientsName</th>
+            <th>Email</th>
+            <th>Contact No.</th>
+            <th>Tasks</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var myClient in Model)
+        {
+            <tr>
+                <td>@myClient.ID</td>
+                <td>@myClient.ClientName</td>
+                <td>@myClient.Email</td>
+                <td>@myClient.ContactNo</td>
+                <td>@myClient.TaskCategories</td>
+                <td><a class="btn btn-primary" asp-controller="MyClients" asp-action="Edit" asp-route-id="myClients.ID">Edit</a></td>
+            </tr>
+        }
+    </tbody>
+   
+</table>

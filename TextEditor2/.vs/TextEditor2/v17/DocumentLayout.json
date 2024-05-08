@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\.net\\TextEditor2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23817B84-8B42-48B1-81B7-C9249EE7ADE0}|..\\StriveWebApp\\StriveWebApp.csproj|c:\\users\\dell\\desktop\\.net\\strivewebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23817B84-8B42-48B1-81B7-C9249EE7ADE0}|..\\StriveWebApp\\StriveWebApp.csproj|c:\\users\\dell\\desktop\\.net\\strivewebapp\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23817B84-8B42-48B1-81B7-C9249EE7ADE0}|..\\StriveWebApp\\StriveWebApp.csproj|c:\\users\\dell\\desktop\\.net\\strivewebapp\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23817B84-8B42-48B1-81B7-C9249EE7ADE0}|..\\StriveWebApp\\StriveWebApp.csproj|c:\\users\\dell\\desktop\\.net\\strivewebapp\\views\\payment\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23817B84-8B42-48B1-81B7-C9249EE7ADE0}|..\\StriveWebApp\\StriveWebApp.csproj|c:\\users\\dell\\desktop\\.net\\strivewebapp\\views\\payment\\cancel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23817B84-8B42-48B1-81B7-C9249EE7ADE0}|..\\StriveWebApp\\StriveWebApp.csproj|c:\\users\\dell\\desktop\\.net\\strivewebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23817B84-8B42-48B1-81B7-C9249EE7ADE0}|..\\StriveWebApp\\StriveWebApp.csproj|c:\\users\\dell\\desktop\\.net\\strivewebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net\\StriveWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\StriveWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net\\StriveWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\StriveWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T09:12:07.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cancel.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net\\StriveWebApp\\Views\\Payment\\Cancel.cshtml",
+              "RelativeDocumentMoniker": "..\\StriveWebApp\\Views\\Payment\\Cancel.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net\\StriveWebApp\\Views\\Payment\\Cancel.cshtml",
+              "RelativeToolTip": "..\\StriveWebApp\\Views\\Payment\\Cancel.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T07:46:42.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net\\StriveWebApp\\Views\\Payment\\Success.cshtml",
+              "RelativeDocumentMoniker": "..\\StriveWebApp\\Views\\Payment\\Success.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net\\StriveWebApp\\Views\\Payment\\Success.cshtml",
+              "RelativeToolTip": "..\\StriveWebApp\\Views\\Payment\\Success.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T07:46:12.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net\\StriveWebApp\\Views\\Payment\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\StriveWebApp\\Views\\Payment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net\\StriveWebApp\\Views\\Payment\\Index.cshtml",
+              "RelativeToolTip": "..\\StriveWebApp\\Views\\Payment\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T06:06:03.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net\\StriveWebApp\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "..\\StriveWebApp\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net\\StriveWebApp\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "..\\StriveWebApp\\Controllers\\PaymentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T06:00:49.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net\\StriveWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\StriveWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net\\StriveWebApp\\Program.cs",
+              "RelativeToolTip": "..\\StriveWebApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T05:51:25.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net\\StriveWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\StriveWebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net\\StriveWebApp\\appsettings.json",
+              "RelativeToolTip": "..\\StriveWebApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-25T05:47:48.651Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

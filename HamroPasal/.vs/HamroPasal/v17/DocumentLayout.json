@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\.net\\HamroPasal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79BFAC7B-B0E7-4EE8-B872-59EE49CA2B67}|HamroPasal.csproj|c:\\users\\dell\\desktop\\.net\\hamropasal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BFAC7B-B0E7-4EE8-B872-59EE49CA2B67}|HamroPasal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\.net\\StriveWebApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BFAC7B-B0E7-4EE8-B872-59EE49CA2B67}|HamroPasal.csproj|c:\\users\\dell\\desktop\\.net\\hamropasal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{79BFAC7B-B0E7-4EE8-B872-59EE49CA2B67}|HamroPasal.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BFAC7B-B0E7-4EE8-B872-59EE49CA2B67}|HamroPasal.csproj|c:\\users\\dell\\desktop\\.net\\hamropasal\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79BFAC7B-B0E7-4EE8-B872-59EE49CA2B67}|HamroPasal.csproj|solutionrelative:views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BFAC7B-B0E7-4EE8-B872-59EE49CA2B67}|HamroPasal.csproj|c:\\users\\dell\\desktop\\.net\\hamropasal\\views\\payment\\cancel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79BFAC7B-B0E7-4EE8-B872-59EE49CA2B67}|HamroPasal.csproj|solutionrelative:views\\payment\\cancel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BFAC7B-B0E7-4EE8-B872-59EE49CA2B67}|HamroPasal.csproj|c:\\users\\dell\\desktop\\.net\\hamropasal\\views\\payment\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79BFAC7B-B0E7-4EE8-B872-59EE49CA2B67}|HamroPasal.csproj|solutionrelative:views\\payment\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BFAC7B-B0E7-4EE8-B872-59EE49CA2B67}|HamroPasal.csproj|c:\\users\\dell\\desktop\\.net\\hamropasal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79BFAC7B-B0E7-4EE8-B872-59EE49CA2B67}|HamroPasal.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\.net\\StripeWebApp\\Views\\Payment\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BFAC7B-B0E7-4EE8-B872-59EE49CA2B67}|HamroPasal.csproj|c:\\users\\dell\\desktop\\.net\\hamropasal\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BFAC7B-B0E7-4EE8-B872-59EE49CA2B67}|HamroPasal.csproj|solutionrelative:controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BFAC7B-B0E7-4EE8-B872-59EE49CA2B67}|HamroPasal.csproj|c:\\users\\dell\\desktop\\.net\\hamropasal\\data\\mvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BFAC7B-B0E7-4EE8-B872-59EE49CA2B67}|HamroPasal.csproj|solutionrelative:data\\mvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net\\StriveWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\StriveWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net\\StriveWebApp\\Program.cs",
+              "RelativeToolTip": "..\\StriveWebApp\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T08:33:09.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net\\StripeWebApp\\Views\\Payment\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\StripeWebApp\\Views\\Payment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net\\StripeWebApp\\Views\\Payment\\Index.cshtml",
+              "RelativeToolTip": "..\\StripeWebApp\\Views\\Payment\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T08:27:44.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net\\HamroPasal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net\\HamroPasal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T08:22:49.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cancel.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net\\HamroPasal\\Views\\Payment\\Cancel.cshtml",
+              "RelativeDocumentMoniker": "Views\\Payment\\Cancel.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net\\HamroPasal\\Views\\Payment\\Cancel.cshtml",
+              "RelativeToolTip": "Views\\Payment\\Cancel.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T08:11:20.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net\\HamroPasal\\Views\\Payment\\Success.cshtml",
+              "RelativeDocumentMoniker": "Views\\Payment\\Success.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net\\HamroPasal\\Views\\Payment\\Success.cshtml",
+              "RelativeToolTip": "Views\\Payment\\Success.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T08:10:43.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net\\HamroPasal\\Views\\Payment\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Payment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net\\HamroPasal\\Views\\Payment\\Index.cshtml",
+              "RelativeToolTip": "Views\\Payment\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T08:06:33.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net\\HamroPasal\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net\\HamroPasal\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-06T07:51:13.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net\\HamroPasal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net\\HamroPasal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T07:50:56.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net\\HamroPasal\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net\\HamroPasal\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Controllers\\PaymentController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA4wBcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T07:50:39.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MvcContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net\\HamroPasal\\Data\\MvcContext.cs",
+              "RelativeDocumentMoniker": "Data\\MvcContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net\\HamroPasal\\Data\\MvcContext.cs",
+              "RelativeToolTip": "Data\\MvcContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T07:44:02.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
