@@ -4536,11 +4536,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\.net\\GhumGham\\GhumGham.csproj",
+      "projectUniqueName": "E:\\test\\GhumGham\\GhumGham.csproj",
       "projectName": "GhumGham",
-      "projectPath": "C:\\Users\\DELL\\Desktop\\.net\\GhumGham\\GhumGham.csproj",
+      "projectPath": "E:\\test\\GhumGham\\GhumGham.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\Desktop\\.net\\GhumGham\\obj\\",
+      "outputPath": "E:\\test\\GhumGham\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",

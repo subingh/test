@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\test\\S_SWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60CD3FEB-CB62-494E-8DED-5154C34FBDED}|..\\S_SWebRazor_Temp\\S_SWebRazor_Temp.csproj|e:\\test\\s_swebrazor_temp\\pages\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60CD3FEB-CB62-494E-8DED-5154C34FBDED}|..\\S_SWebRazor_Temp\\S_SWebRazor_Temp.csproj|e:\\test\\s_swebrazor_temp\\pages\\categories\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60CD3FEB-CB62-494E-8DED-5154C34FBDED}|..\\S_SWebRazor_Temp\\S_SWebRazor_Temp.csproj|e:\\test\\s_swebrazor_temp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60CD3FEB-CB62-494E-8DED-5154C34FBDED}|..\\S_SWebRazor_Temp\\S_SWebRazor_Temp.csproj|e:\\test\\s_swebrazor_temp\\pages\\categories\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60CD3FEB-CB62-494E-8DED-5154C34FBDED}|..\\S_SWebRazor_Temp\\S_SWebRazor_Temp.csproj|e:\\test\\s_swebrazor_temp\\pages\\categories\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60CD3FEB-CB62-494E-8DED-5154C34FBDED}|..\\S_SWebRazor_Temp\\S_SWebRazor_Temp.csproj|e:\\test\\s_swebrazor_temp\\pages\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\test\\S_SWebRazor_Temp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\S_SWebRazor_Temp\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\test\\S_SWebRazor_Temp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\S_SWebRazor_Temp\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T06:44:52.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\test\\S_SWebRazor_Temp\\Pages\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\S_SWebRazor_Temp\\Pages\\Categories\\Create.cshtml",
+              "ToolTip": "E:\\test\\S_SWebRazor_Temp\\Pages\\Categories\\Create.cshtml",
+              "RelativeToolTip": "..\\S_SWebRazor_Temp\\Pages\\Categories\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T06:43:13.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Notification.cshtml",
+              "DocumentMoniker": "E:\\test\\S_SWebRazor_Temp\\Pages\\Shared\\_Notification.cshtml",
+              "RelativeDocumentMoniker": "..\\S_SWebRazor_Temp\\Pages\\Shared\\_Notification.cshtml",
+              "ToolTip": "E:\\test\\S_SWebRazor_Temp\\Pages\\Shared\\_Notification.cshtml",
+              "RelativeToolTip": "..\\S_SWebRazor_Temp\\Pages\\Shared\\_Notification.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T06:35:50.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "E:\\test\\S_SWebRazor_Temp\\Pages\\Categories\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\S_SWebRazor_Temp\\Pages\\Categories\\Edit.cshtml.cs",
+              "ToolTip": "E:\\test\\S_SWebRazor_Temp\\Pages\\Categories\\Edit.cshtml.cs",
+              "RelativeToolTip": "..\\S_SWebRazor_Temp\\Pages\\Categories\\Edit.cshtml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T06:33:17.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "E:\\test\\S_SWebRazor_Temp\\Pages\\Categories\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\S_SWebRazor_Temp\\Pages\\Categories\\Create.cshtml.cs",
+              "ToolTip": "E:\\test\\S_SWebRazor_Temp\\Pages\\Categories\\Create.cshtml.cs",
+              "RelativeToolTip": "..\\S_SWebRazor_Temp\\Pages\\Categories\\Create.cshtml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T06:32:54.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "E:\\test\\S_SWebRazor_Temp\\Pages\\Categories\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\S_SWebRazor_Temp\\Pages\\Categories\\Delete.cshtml.cs",
+              "ToolTip": "E:\\test\\S_SWebRazor_Temp\\Pages\\Categories\\Delete.cshtml.cs",
+              "RelativeToolTip": "..\\S_SWebRazor_Temp\\Pages\\Categories\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:57:02.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SSWalks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14d3080f22da9458a2fdec118be4cc5b9256f2a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("SSWalks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SSWalks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

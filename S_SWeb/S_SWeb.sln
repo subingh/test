@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S_SWeb", "S_SWeb.csproj", "{76596B28-2A92-451B-8AD4-8E4A0A14128B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S_SWebRazor_Temp", "..\S_SWebRazor_Temp\S_SWebRazor_Temp.csproj", "{60CD3FEB-CB62-494E-8DED-5154C34FBDED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76596B28-2A92-451B-8AD4-8E4A0A14128B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76596B28-2A92-451B-8AD4-8E4A0A14128B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76596B28-2A92-451B-8AD4-8E4A0A14128B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76596B28-2A92-451B-8AD4-8E4A0A14128B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60CD3FEB-CB62-494E-8DED-5154C34FBDED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60CD3FEB-CB62-494E-8DED-5154C34FBDED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60CD3FEB-CB62-494E-8DED-5154C34FBDED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60CD3FEB-CB62-494E-8DED-5154C34FBDED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A228639B-DC38-4560-93A9-ACB3675C7D7C}
+	EndGlobalSection
+EndGlobal

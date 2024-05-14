@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\S_SWebRazor_Temp.props" />
+</Project>
